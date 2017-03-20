@@ -1,5 +1,5 @@
 body{
-	background-image:url('shampoo.png');
+	background-image:url('imagenes/shampoo.png');
 	background-size: cover;
 	background-repeat: none;
 }
@@ -23,6 +23,11 @@ a:hover{
 
 a:visited{
 	color:#333;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
 }
 
 #content{
